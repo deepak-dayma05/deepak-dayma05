@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @deepak-dayma05
 - 👀 I’m interested in development, DevOps, and learning new technology
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Web Development
 - 💞️ I’m looking to collaborate on java based projects
 - 📫 How to reach me Insta:@deepak_dayma.05; twitter:- @DeeepakDayma
 
